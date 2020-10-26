@@ -1,1 +1,2 @@
-# crumble-paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
